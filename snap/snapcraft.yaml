@@ -1,6 +1,6 @@
 name: texturecraft
 title: TextureCraft
-base: core24
+base: core26
 version: '0.6.1'
 summary: 3D texture painter for PBR materials
 description: |
